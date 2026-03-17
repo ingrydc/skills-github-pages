@@ -1,3 +1,9 @@
 ---
-title: Welcome to my blog!
+ingrydc: Welcome to my blog!
 ---
+
+# daily plan
+
+- [ ] read
+- [ ] workout
+- [ ] work
